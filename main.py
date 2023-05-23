@@ -1,6 +1,7 @@
 import streamlit as st
 import app
 import eda
+import pandas as pd
 
 PAGES = {
     "Home": app,
